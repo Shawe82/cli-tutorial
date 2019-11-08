@@ -8,6 +8,7 @@ authors = ["Simon Hawe <shawe@munichre.com>"]
 python = "^3.7"
 click = "^7.0"
 funcy = "^1.13"
+black = "19.10b0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
